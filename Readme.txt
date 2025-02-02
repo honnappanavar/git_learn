@@ -1,2 +1,2 @@
-This is Firest Repositary list
+This is First Repository list
 
